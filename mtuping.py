@@ -20,7 +20,7 @@ explanations = OrderedDict([
 		( '.Y22Y', 'Unable to test. Returns fragments without prompting.' ),
 		( '.Y00Y', 'Unable to test. Doesn\'t respond to large echo requests.' ),
 		( '.YY0Y', 'Site does not generate fragmented echo replies. Does change behavior after receiving PTB.' ),
-		( '..Y2Y', 'Site generated fragmented echo reply after receving PTB. Success!' ),
+		( '..Y2.', 'Site generated fragmented echo reply after receving PTB. Success!' ),
 		( '.YYYY', 'Site ignored PTB message. This will cause problems.' ),
 	])
 
